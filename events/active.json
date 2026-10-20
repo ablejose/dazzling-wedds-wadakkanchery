@@ -1,0 +1,31 @@
+{
+  "slug": "dazzling-wedds-wadakkanchery",
+  "name": "Dazzling Wedds",
+  "shortName": "Dazzling Wedds",
+  "descriptor": "Catering & Events",
+  "address": "Ottupara, Wadakkanchery, Kumaranellur, Keralam 680582",
+  "area": "Kumaranellur",
+  "city": "Wadakkanchery",
+  "district": "Thrissur",
+  "region": "Kerala",
+  "postalCode": "680582",
+  "geo": {
+    "lat": 10.6643834,
+    "lng": 76.2492717
+  },
+  "mapsLink": "https://maps.google.com/?cid=13172736751795807070",
+  "phone": "+91 80897 23557",
+  "whatsapp": "918089723557",
+  "hours": "Open 9 am – 5 pm · all days",
+  "opens": "09:00",
+  "closes": "17:00",
+  "rating": 5,
+  "reviewCount": 1,
+  "reviews": [],
+  "gallery": [
+    "gallery/01.webp",
+    "gallery/02.webp",
+    "gallery/03.webp"
+  ],
+  "url": "https://dazzling-wedds-wadakkanchery.vercel.app"
+}
